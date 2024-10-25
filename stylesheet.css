@@ -1,0 +1,35 @@
+body{
+    background-color: #e2d9f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    width: 100%;
+    max-width: 1000px;
+}
+
+.round-ctn1{
+    width: 50%;
+    float: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 500px;
+    background-color: #a189d3;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.round-ctn2{
+    width: 50%;
+    float: right;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 500px;
+    background-color: #a189d3;
+    border-radius: 15px;
+    padding: 20px;
+}
