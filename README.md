@@ -19,7 +19,7 @@ Putting a project from my certification into GitHub
 
 ### Screenshot
 
-![](/Local-Storage-Ex-GL.png)
+![](/Local-Storage-GL.png)
 
 ### Links
 - Live Site URL: [https://melanie-cabriales.github.io/HTML5-GL/]
